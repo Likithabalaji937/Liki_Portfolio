@@ -3,7 +3,7 @@ Portfolio Website - README
 This is a modern, responsive portfolio website showcasing Likitha Balaji's skills, projects, and professional background in Machine Learning, Data Science, and Software Development.
 
 Portfolio Preview
-
+![image alt](https://github.com/Likithabalaji937/Liki_Portfolio/blob/d35597488dcdbba1a6e3859b8add5ccb102cb51c/liki.jpeg)
 🚀 Features
 Modern Dark Theme with purple and teal accents
 
